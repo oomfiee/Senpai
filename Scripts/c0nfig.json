@@ -1,0 +1,41 @@
+{
+    "audio": "pipewire",
+    "bootloader": "grub-install",
+    "custom-commands": [
+        "cd /home/Neptune; git clone https://aur.archlinux.org/paru.git",
+        "cd paru",
+        "makepkg -si",
+        "paru -S firefox discord betterdiscord-installer revolt-desktop-git multimc-bin teams vlc bitwarden visual-studio-code-bin systemd"
+    ],
+    "!encryption-password": "2044",
+    "filesystem": "btrfs",
+    "harddrive": {
+        "path": "/dev/sda"
+    },
+    "hostname": "SOSS",
+    "kernels": [
+        "linux"
+    ],
+    "keyboard-language": "us",
+    "mirror-region": "Worldwide",
+    "nic": {
+        "NetworkManager": true
+    },
+    "ntp": true,
+    "packages": ["kitty", "git", "wget", "zsh"],
+    "profile": "kde",
+    "superusers": {
+        "Neptune": {
+            "!password": "2044"
+        }
+    },
+    "sys-encoding": "utf-8",
+    "sys-language": "en_US",
+    "timezone": "Asia/Riyadh",
+    "users": {
+        "Neptune":{
+            "!password":"2044"
+        }
+ */"!encryption-password": "2044"/*
+}
+}
