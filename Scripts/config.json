@@ -1,6 +1,6 @@
 {
     "audio": "pipewire",
-    "bootloader": "gurb-install",
+    "bootloader": "grub-install",
     "custom-commands": [
         "cd /home/Neptune; git clone https://aur.archlinux.org/paru.git",
         "cd paru",
@@ -36,5 +36,6 @@
         "Neptune":{
             "!password":"2044"
         }
-    }
+ "!encryption-password": "2044"
+}
 }
