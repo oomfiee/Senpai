@@ -35,6 +35,7 @@
     "users": {
         "Neptune":{
             "!password":"2044"
-        },
+        }
     }
 }
+
