@@ -1,17 +1,17 @@
 # Senpai
 
-Hell hole of Repo
+Heww howe of Wepo
 
-## Installation
+## Instawwation
 You cant
  
 ## Usage
 
 you cant use it
 
-## Contributing
+## Contwibuting
 Escape
 
 
-## License
+## Wicense
 [DWTFYWTPW](https://github.com/amywastaken/Senpai/blob/Senpai/LICENSE.md)
