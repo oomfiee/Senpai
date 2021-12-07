@@ -33,8 +33,5 @@
     "sys-language": "en_US",
     "timezone": "Asia/Riyadh",
     "users": {
-        "Neptune":{
-            "!password":"2044"
-        }
     }
 } 
