@@ -1,6 +1,6 @@
 {
     "audio": "pipewire",
-    "bootloader": "grub",
+    "bootloader": "gurb-install",
     "custom-commands": [
         "cd /home/Neptune; git clone https://aur.archlinux.org/paru.git",
         "cd paru",
